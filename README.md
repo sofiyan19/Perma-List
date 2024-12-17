@@ -4,6 +4,7 @@ Perma-List is a permanent To Do List web application where we can add list of ta
 ## Technologies-Used
 - EJS: allows to embed JavaScript code within HTML to dynamically generate HTML content.
 - CSS3
+- JAVASCRIPT
 - NODEJS
 - EXPRESS
 - POSTGRESQL
